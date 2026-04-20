@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Introduction to AI Agents",
+    "speakers": ["Dr. Ada Lovelace"],
+    "category": ["AI", "Machine Learning"],
+    "duration_minutes": 60,
+    "description": "An overview of the current landscape of AI agents, their capabilities, and future directions."
+  },
+  {
+    "title": "Full-Stack Development with Node.js and React",
+    "speakers": ["John Doe", "Jane Smith"],
+    "category": ["Web Development", "Node.js", "React"],
+    "duration_minutes": 60,
+    "description": "Learn how to build modern web applications using Node.js for the backend and React for the frontend."
+  },
+  {
+    "title": "Cloud Native Architectures",
+    "speakers": ["Alice Johnson"],
+    "category": ["Cloud", "DevOps"],
+    "duration_minutes": 60,
+    "description": "Exploring best practices and patterns for designing and deploying applications in a cloud-native environment."
+  },
+  {
+    "title": "Data Science with Python",
+    "speakers": ["Bob Williams"],
+    "category": ["Data Science", "Python"],
+    "duration_minutes": 60,
+    "description": "A practical guide to data analysis and machine learning using popular Python libraries."
+  },
+  {
+    "title": "Security Best Practices for Web Applications",
+    "speakers": ["Charlie Brown"],
+    "category": ["Security", "Web Development"],
+    "duration_minutes": 60,
+    "description": "Understanding common web vulnerabilities and how to implement robust security measures."
+  },
+  {
+    "title": "Quantum Computing Fundamentals",
+    "speakers": ["Dr. Eva Green"],
+    "category": ["Quantum", "Future Tech"
+],
+    "duration_minutes": 60,
+    "description": "An introductory session to the principles of quantum computing and its potential impact."
+  }
+]
